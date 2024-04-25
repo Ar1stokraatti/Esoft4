@@ -1,0 +1,56 @@
+.countdown-timer-container {
+  background-color: #3498db;
+  border: 2px solid #2980b9;
+  border-radius: 5px;
+  padding: 5px;
+  text-align: center;
+  width: fit-content;
+  top: 20px;
+  left: 20px;
+}
+
+.countdown-timer {
+  font-size: 18px;
+  font-weight: bold;
+  color: rgb(0, 0, 0);
+}
+
+.user-list-container {
+  background-color: #3498db;
+  border: 2px solid #2980b9;
+  border-radius: 5px;
+  padding: 10px;
+  margin-top: 20px;
+  width: fit-content;
+}
+
+.user-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.user-item {
+  margin-bottom: 10px;
+  padding: 5px;
+  background-color: #2980b9;
+  border-radius: 3px;
+}
+
+.window-size-container {
+  background-color: #3498db;
+  border: 2px solid #2980b9;
+  border-radius: 5px;
+  padding: 10px;
+  margin-top: 20px;
+  width: fit-content;
+}
+
+.window-size-title {
+  font-size: 18px;
+}
+
+.window-size-text {
+  font-size: 16px;
+  color: #000; 
+  font-weight: bold;
+}
